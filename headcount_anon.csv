@@ -1,0 +1,153 @@
+Headcount ID,Hiring status,Employee Name,Job title,Job role,Division,Department,Job level,Location,Actual start date,Offer acceptance date,Hiring quarter,Actual pay currency,Employee type,Actual pay rate,Actual salary,Actual commission,Actual bonus amount,Actual bonus percentage,Actual equity
+ID_0236,Hired,EMP_5197,"VDR, Commerical",Marketing Manager,No Division,Marketing,IC1,Edinburgh,06-08-2026,04-29-2026,FY27 Q1,GBP,Full time,YEAR,"45,000","25,000",0.0,0.0,150
+ID_7253,Hired,EMP_0059,"GTM Recruiter, EMEA",People Partner,No Division,Marketing,IC3,Edinburgh,05-11-2026,03-18-2026,FY27 Q1,GBP,Full time,YEAR,"110,000",0,5500.0,5.0,0
+ID_8444,Hired,EMP_1069,Product Manager,Solutions Architect,No Division,Business Development,IC5,Boston,05-26-2026,03-27-2026,FY27 Q1,USD,Full time,YEAR,"350,000",0,35000.0,10.0,0
+ID_8230,Hired,EMP_5245,Software Engineer,Security Strategist,No Division,Sales,IC5,Boston,04-27-2026,03-24-2026,FY27 Q2,USD,Full time,YEAR,"300,000",0,30000.0,10.0,0
+ID_3254,Hired,EMP_5877,"Software Engineer, v0 API",Security Strategist,No Division,Sales,IC4,,06-22-2026,05-13-2026,FY27 Q1,USD,Full time,YEAR,"130,000",0,6500.0,5.0,999
+ID_7703,Hired,EMP_4429,Software Engineer,Security Strategist,No Division,Sales,IC5,Boston,07-20-2026,05-05-2026,FY27 Q2,USD,Full time,YEAR,"350,000",0,35000.0,10.0,"7,000"
+ID_7126,Hired,EMP_9250,"Sr. Field Marketing Manager, Startups",Security Designer,No Division,Finance,IC4,Austin,06-08-2026,05-07-2026,FY27 Q2,USD,Full time,YEAR,"230,000",0,17250.0,7.5,0
+ID_3925,Hired,EMP_4880,Software Engineer,Security Strategist,No Division,Sales,IC4,Tokyo,04-27-2026,03-13-2026,FY27 Q1,JPY,Full time,YEAR,"44,000,000",0,3300000.0,7.5,0
+ID_1476,Hired,EMP_9516,"Senior Brand Designer, Core",Finance Specialist,No Division,Procurement,IC4,Boston,03-20-2026,03-09-2026,FY27 Q1,USD,Full time,YEAR,"187,500",0,14062.5,7.5,900
+ID_3251,Hired,EMP_1791,"VDR, Majors",Marketing Manager,No Division,Marketing,IC2,Austin,04-06-2026,03-06-2026,FY27 Q1,USD,Full time,YEAR,"70,000","46,000",0.0,0.0,0
+ID_2133,Hired,EMP_1094,"Director of Partnerships, Commerce & Channels",Data Architect,No Division,Business Development,M5,Austin,03-02-2026,02-10-2026,FY27 Q1,USD,Full time,YEAR,"245,000","105,000",0.0,0.0,0
+ID_8955,Hired,EMP_5368,"Director, Sales AUNZ",Product Designer,No Division,Marketing,M5,Sydney,05-01-2026,02-23-2026,FY27 Q1,AUD,Full time,YEAR,"356,000","356,000",0.0,0.0,0
+ID_3786,Hired,EMP_5085,Senior GRC Engineer,Infrastructure Advisor,No Division,Marketing,IC4,Boston,03-16-2026,03-09-2026,FY27 Q1,USD,Full time,YEAR,"260,000",0,19500.0,7.5,0
+ID_4479,Hired,EMP_0211,"VDR, Majors",Marketing Manager,No Division,Marketing,IC2,Edinburgh,04-06-2026,03-18-2026,FY27 Q3,GBP,Full time,YEAR,"50,000","33,000",0.0,0.0,0
+ID_0383,Hired,EMP_1901,"Senior Account Executive, Startups",Platform Director,No Division,IT,IC3,Edinburgh,04-06-2026,03-03-2026,FY27 Q1,GBP,Full time,YEAR,"90,000","90,000",0.0,0.0,0
+ID_7814,Hired,EMP_8127,Software Engineer,Security Strategist,No Division,Sales,IC3,Austin,04-16-2026,04-14-2026,FY27 Q1,USD,Full time,YEAR,"215,000",0,10750.0,5.0,0
+ID_3368,Hired,EMP_8921,"Senior Account Executive, Startups",Platform Principal,No Division,IT,IC3,Austin,03-16-2026,03-03-2026,FY27 Q1,USD,Full time,YEAR,"125,000","125,000",0.0,0.0,0
+ID_7616,Hired,EMP_7209,Director of Trust and Safety Engineering,People Lead,No Division,Legal,M5,Boston,05-11-2026,04-22-2026,FY27 Q1,USD,Full time,YEAR,"350,000",0,43750.0,12.5,0
+ID_5236,Hired,EMP_0511,GTM Engineer,Technical Architect,No Division,Data,IC4,Austin,06-08-2026,05-05-2026,FY27 Q2,USD,Full time,YEAR,"252,000",0,18900.0,7.5,0
+ID_7646,Hired,EMP_8429,Software Engineer,Security Strategist,No Division,Sales,IC4,Boston,03-16-2026,02-27-2026,FY27 Q2,USD,Full time,YEAR,"270,000",0,20250.0,7.5,0
+ID_6881,Offer stage,EMP_4375,Design Engineer,Business Engineer,No Division,Procurement,IC4,Boston,07-06-2026,,FY27 Q2,USD,Full time,YEAR,"290,000",0,21750.0,7.5,"3,400"
+ID_2854,Hired,EMP_9051,"Vice President, Sales",,No Division,Marketing,M6,Edinburgh,04-13-2026,,FY27 Q1,GBP,Full time,YEAR,"250,000","250,000",0.0,0.0,0
+ID_6746,Hired,EMP_9647,"Sr. HRBP, Engineering",Security Architect,No Division,Communications,IC5,Boston,04-20-2026,04-06-2026,FY27 Q1,USD,Full time,YEAR,"225,000",0,22500.0,10.0,0
+ID_3113,Hired,EMP_6670,"Principal Software Engineer, Data Infrastructure",Technical Architect,No Division,Marketing,IC6,Boston,05-26-2026,04-20-2026,FY27 Q1,USD,Full time,YEAR,"360,000",0,45000.0,12.5,0
+ID_4831,Hired,EMP_7915,VP of Security,Platform Lead,No Division,Legal,E1,Boston,04-27-2026,03-17-2026,FY27 Q2,USD,Full time,YEAR,"375,000",0,75000.0,20.0,0
+ID_5191,Hired,EMP_5892,"Senior Director of Legal, Product Foundations",Business Manager,No Division,Marketing,M6,Boston,06-01-2026,05-11-2026,FY27 Q1,USD,Full time,YEAR,"400,000",0,100000.0,25.0,0
+ID_3356,Hired,EMP_0175,"Staff, Learning & Development",Finance Associate,No Division,Communications,IC5,Boston,05-18-2026,04-15-2026,FY27 Q2,USD,Full time,YEAR,"225,000",0,22500.0,10.0,0
+ID_4446,Hired,EMP_6357,Software Engineer,Security Strategist,No Division,Sales,IC3,Boston,05-11-2026,04-28-2026,FY27 Q1,USD,Full time,YEAR,"250,000",0,12500.0,5.0,0
+ID_9581,Hired,EMP_5657,Sourcer,People Partner,No Division,Marketing,IC2,Austin,05-18-2026,,FY27 Q2,USD,Full time,HOUR,61,0,3.05,5.0,0
+ID_3010,Hired,EMP_7273,Software Engineer,Security Strategist,No Division,Sales,IC6,Boston,06-22-2026,05-11-2026,FY27 Q2,USD,Full time,YEAR,"265,000",0,19875.0,7.5,"3,600"
+ID_3802,Hired,EMP_7544,Software Engineer,Security Strategist,No Division,Sales,IC4,Edinburgh,06-08-2026,03-27-2026,FY27 Q3,GBP,Full time,YEAR,"220,000",0,22000.0,10.0,"10,000"
+ID_9420,Hired,EMP_3501,"Partnership Lead, APAC",Data Architect,No Division,Business Development,IC5,Sydney,07-01-2026,05-07-2026,FY27 Q1,AUD,Full time,YEAR,"253,400","108,600",0.0,0.0,"1,005"
+ID_3503,Hired,EMP_0044,"VDR, Commercial",Marketing Manager,No Division,Marketing,IC1,Amsterdam,04-06-2026,03-06-2026,FY27 Q1,EUR,Full time,YEAR,"54,000","37,000",0.0,0.0,0
+ID_4672,Hired,EMP_9728,Senior Product Designer,Solutions Advisor,No Division,Procurement,IC4,Austin,03-30-2026,03-16-2026,,USD,Full time,YEAR,"205,000",0,15375.0,7.5,0
+ID_2685,Hired,EMP_8185,Software Engineer,Solutions Architect,No Division,Sales,IC3,Toronto,05-26-2026,05-08-2026,FY27 Q1,CAD,Full time,YEAR,"205,000",0,10250.0,5.0,0
+ID_6770,Hired,EMP_7288,"Account Executive, Majors",Sales Engineer,No Division,IT,IC4,Austin,05-11-2026,04-09-2026,FY27 Q2,USD,Full time,YEAR,"175,000","175,000",0.0,0.0,0
+ID_1818,Hired,EMP_4277,Senior Product Partnerships Manager,Platform Manager,No Division,Business Development,IC5,Austin,06-08-2026,05-19-2026,,USD,Full time,YEAR,"235,000",0,23500.0,10.0,0
+ID_6912,Offer stage,EMP_8107,Solutions Architect,Security Partner,No Division,Data,IC1,Boston,08-03-2026,,FY27 Q3,USD,Full time,YEAR,"83,000","27,667",0.0,0.0,300
+ID_0733,Hired,EMP_3636,"VDR, Commercial",Marketing Manager,No Division,Marketing,IC1,Sydney,07-01-2026,06-03-2026,FY27 Q2,AUD,Full time,YEAR,"78,000","52,000",0.0,0.0,130
+ID_8538,Hired,EMP_6016,"Staff Product Marketing Manager, Security",Operations Principal,No Division,Finance,IC5,Boston,06-29-2026,05-21-2026,FY27 Q2,USD,Full time,YEAR,"260,000",0,26000.0,10.0,"2,500"
+ID_9783,Hired,EMP_4754,"Senior Account Executive, Startups",Platform Director,No Division,IT,IC3,Austin,06-08-2026,04-28-2026,FY27 Q2,USD,Full time,YEAR,"129,000","129,000",0.0,0.0,0
+ID_3175,Hired,EMP_0370,"Account Executive, Majors",Sales Engineer,No Division,IT,IC4,Boston,05-18-2026,04-30-2026,FY27 Q2,USD,Full time,YEAR,"165,000","165,000",0.0,0.0,0
+ID_9317,Offer stage,EMP_9334,Solutions Architect,Security Partner,No Division,Data,IC3,Boston,08-03-2026,,FY27 Q2,USD,Full time,YEAR,"150,000","50,000",0.0,0.0,0
+ID_8865,Hired,EMP_5588,Solutions Architect,Security Partner,No Division,Data,IC3,Austin,06-08-2026,05-08-2026,,USD,Full time,YEAR,"161,250","53,750",0.0,0.0,0
+ID_1468,Offer stage,EMP_1697,"Account Executive, Majors",Sales Engineer,No Division,IT,IC4,Austin,11-01-2026,,FY27 Q3,USD,Full time,YEAR,"170,000","170,000",0.0,0.0,0
+ID_0295,Hired,EMP_1805,"Director, Sales Development",Product Designer,No Division,Marketing,M4,Edinburgh,07-06-2026,05-27-2026,FY27 Q2,GBP,Full time,YEAR,"180,000","120,000",0.0,0.0,"1,600"
+ID_1729,Hired,EMP_7729,"Account Executive, Install Base",Platform Director,No Division,IT,IC3,Austin,11-02-2026,04-14-2026,FY27 Q3,USD,Full time,YEAR,"120,000","120,000",0.0,0.0,0
+ID_0723,Hired,EMP_9424,"Account Executive, Commercial",Platform Director,No Division,IT,IC3,Boston,03-16-2026,02-20-2026,FY27 Q2,USD,Full time,YEAR,"130,000","130,000",0.0,0.0,0
+ID_9609,Hired,EMP_9955,VP of Finance,Data Coordinator,No Division,Marketing,M6,Boston,06-22-2026,05-12-2026,FY27 Q1,USD,Full time,YEAR,"415,000",0,124500.0,30.0,"40,000"
+ID_0202,Hired,EMP_3133,Senior Partner Manager,Data Architect,No Division,Business Development,IC4,Boston,07-06-2026,06-02-2026,FY27 Q2,USD,Full time,YEAR,"203,000","87,000",0.0,0.0,850
+ID_5002,Offer stage,EMP_6204,Partner Solutions Engineer,Data Manager,No Division,Business Development,IC3,Boston,08-03-2026,,FY27 Q2,USD,Full time,YEAR,"190,245",0,9512.248,5.0,0
+ID_7329,Hired,EMP_7164,Executive Business Partner,Product Manager,No Division,Marketing,IC4,Boston,03-02-2026,02-13-2026,FY27 Q1,USD,Full time,YEAR,"160,000",0,12000.0,7.5,0
+ID_9777,Hired,EMP_7136,"MBA Intern, Corporate Development",Product Manager,No Division,Marketing,IC2,Boston,03-30-2026,03-19-2026,FY27 Q1,USD,Intern,HOUR,55,0,0.0,0.0,0
+ID_1796,Offer stage,EMP_9692,"VDR, Majors",Marketing Manager,No Division,Marketing,IC2,Sydney,07-01-2026,,FY27 Q2,AUD,Full time,YEAR,"99,600","66,400",0.0,0.0,195
+ID_5594,Hired,EMP_1509,"VDR, Commercial",Marketing Manager,No Division,Marketing,IC1,Boston,07-06-2026,03-09-2026,FY27 Q2,USD,Full time,YEAR,"63,000","42,000",0.0,0.0,200
+ID_9240,Hired,EMP_2305,"VDR, Startups",Marketing Manager,No Division,Marketing,IC1,Edinburgh,05-11-2026,03-23-2026,FY27 Q2,GBP,Full time,YEAR,"42,000","28,000",0.0,0.0,0
+ID_5357,Hired,EMP_8779,"Account Executive, Majors",Sales Engineer,No Division,IT,IC4,Sydney,07-06-2026,05-16-2026,FY27 Q2,AUD,Full time,YEAR,"287,000","287,000",0.0,0.0,"2,000"
+ID_6210,Hired,EMP_2121,Staff Data Foundations Engineer,Technical Architect,No Division,Marketing,IC5,Austin,04-27-2026,04-01-2026,FY27 Q2,USD,Full time,YEAR,"300,000",0,30000.0,10.0,0
+ID_9789,Hired,EMP_5287,"Director, Technical Accounting & Financial Reporting",Sales Consultant,No Division,Marketing,IC6,Boston,06-22-2026,05-18-2026,FY27 Q1,USD,Full time,YEAR,"225,000",0,28125.0,12.5,"3,300"
+ID_4772,Hired,EMP_9620,Senior Solutions Architect,Security Partner,No Division,Data,IC4,Edinburgh,05-26-2026,04-28-2026,FY27 Q2,GBP,Full time,YEAR,"105,000","35,000",0.0,0.0,0
+ID_2241,Hired,EMP_1101,Software Engineer,Security Strategist,No Division,Sales,IC4,Boston,05-04-2026,04-09-2026,FY27 Q1,USD,Full time,YEAR,"305,000",0,22875.0,7.5,0
+ID_9445,Hired,EMP_3401,"VDR, Startups",Marketing Manager,No Division,Marketing,IC1,Austin,06-08-2026,05-07-2026,FY27 Q2,USD,Full time,YEAR,"63,000","42,000",0.0,0.0,0
+ID_6010,Hired,EMP_9310,Field CTO,Security Partner,No Division,Data,IC6,Austin,06-08-2026,05-11-2026,FY27 Q1,USD,Full time,YEAR,"318,750","106,250",0.0,0.0,0
+ID_8541,Hired,EMP_9985,Principal Data Platform Engineer,Technical Architect,No Division,Marketing,IC6,Boston,04-13-2026,03-11-2026,FY27 Q1,USD,Full time,YEAR,"360,000",0,45000.0,12.5,0
+ID_8164,Hired,EMP_9249,Software Engineer,Security Strategist,No Division,Sales,IC4,Austin,06-08-2026,04-16-2026,FY27 Q1,USD,Full time,YEAR,"220,000",0,11000.0,5.0,0
+ID_7702,Hired,EMP_9233,Content Engineer,People Partner,No Division,Finance,IC4,Sydney,03-02-2026,02-10-2026,FY27 Q1,AUD,Full time,YEAR,"126,947",0,9521.025,7.5,0
+ID_0595,Offer stage,EMP_8671,Senior Product Partnerships Manager,Platform Manager,No Division,Business Development,IC5,Boston,06-22-2026,,FY27 Q2,USD,Full time,YEAR,"235,000",0,23500.0,10.0,"1,600"
+ID_9930,Hired,EMP_5151,Developer Success Engineer,Solutions Designer,No Division,Data,IC4,Sydney,04-01-2026,03-18-2026,FY27 Q1,AUD,Full time,YEAR,"204,000",0,15300.0,7.5,120
+ID_9152,Hired,EMP_2480,"Strategic Finance Manager, GTM",Data Coordinator,No Division,Marketing,IC4,Austin,03-09-2026,02-12-2026,FY27 Q1,USD,Full time,YEAR,"200,000",0,15000.0,7.5,0
+ID_1353,Hired,EMP_9411,"Solutions Architect, Startups ",Security Partner,No Division,Data,IC4,Austin,05-01-2026,04-30-2026,FY27 Q1,USD,Full time,YEAR,"193,000","64,000",7280.8057,5.0,"1,600"
+ID_5557,Hired,EMP_1442,Senior Workday Integrations Engineer,Operations Principal,No Division,Communications,IC5,Boston,04-27-2026,04-08-2026,FY27 Q2,USD,Full time,YEAR,"220,000",0,22000.0,10.0,0
+ID_5979,Hired,EMP_2914,"Senior Manager, Value Engineering & Enablement",Customer Coordinator,No Division,Marketing,M4,Boston,03-16-2026,03-12-2026,FY27 Q2,USD,Full time,YEAR,"225,000",0,22500.0,10.0,0
+ID_9711,Hired,EMP_6148,Senior Accountant,Finance Partner,No Division,Marketing,IC3,Boston,05-04-2026,04-14-2026,FY27 Q1,USD,Full time,YEAR,"135,000",0,6750.0,5.0,0
+ID_0983,Hired,EMP_9785,"Software Engineer, CDN Security",Security Strategist,No Division,Sales,IC4,Boston,07-20-2026,05-27-2026,FY27 Q2,USD,Full time,YEAR,"250,000",0,18750.0,7.5,"3,400"
+ID_7149,Hired,EMP_5675,Senior Content Engineer,People Partner,No Division,Finance,IC4,Austin,06-08-2026,05-07-2026,FY27 Q2,USD,Full time,YEAR,"217,000",0,16275.0,7.5,0
+ID_3312,Offer stage,EMP_9479,GTM Engineer,Technical Architect,No Division,Data,IC3,Boston,08-03-2026,,FY27 Q2,USD,Full time,YEAR,"204,000",0,15300.0,7.5,0
+ID_6642,Hired,EMP_5333,"Customer Marketing Manager, Startup",People Partner,No Division,Finance,IC3,Austin,05-11-2026,04-10-2026,FY27 Q1,USD,Full time,YEAR,"205,000",0,10250.0,5.0,0
+ID_5652,Hired,EMP_5163,"Senior Account Executive, Startups",Platform Principal,No Division,IT,IC3,Austin,04-06-2026,03-23-2026,FY27 Q2,USD,Full time,YEAR,"138,000","138,000",0.0,0.0,0
+ID_5128,Hired,EMP_6360,"Staff Recruiter, G&A",People Partner,No Division,Marketing,IC5,Austin,03-09-2026,02-21-2026,FY27 Q1,USD,Full time,YEAR,"240,000",0,24000.0,10.0,0
+ID_7671,Hired,EMP_9077,"Account Executive, Startups",Platform Principal,No Division,IT,IC3,Austin,05-11-2026,,FY27 Q2,USD,Full time,YEAR,"111,000","111,000",0.0,0.0,0
+ID_2202,Hired,EMP_9075,Procurement Specialist,Finance Partner,No Division,Marketing,IC3,Boston,03-16-2026,03-13-2026,FY27 Q2,USD,Full time,YEAR,"130,000",0,6500.0,5.0,500
+ID_1871,Hired,EMP_9630,"Staff Recruiter, GTM",People Partner,No Division,Marketing,IC5,Boston,03-16-2026,02-27-2026,FY27 Q1,USD,Full time,YEAR,"260,000",0,26000.0,10.0,0
+ID_7637,Hired,EMP_6927,"Product Manager, Agent Home Experience PM",Solutions Architect,No Division,Business Development,IC4,Boston,07-06-2026,05-27-2026,FY27 Q2,USD,Full time,YEAR,"200,000",0,10000.0,5.0,"1,800"
+ID_6544,Hired,EMP_3832,Product Security Engineer,Platform Lead,No Division,Legal,IC4,Boston,04-27-2026,04-02-2026,FY27 Q2,USD,Full time,YEAR,"230,000",0,11500.0,5.0,"2,000"
+ID_1363,Hired,EMP_8861,Senior Global People Operations Specialist,,No Division,Communications,IC4,Boston,05-04-2026,04-09-2026,FY27 Q2,USD,Full time,YEAR,"170,000",0,12750.0,7.5,0
+ID_5016,Hired,EMP_4561,SWE,Security Strategist,No Division,Sales,IC3,Toronto,01-18-2027,02-24-2026,FY27 Q1,CAD,Full time,YEAR,"260,490",0,13024.5,5.0,"1,388"
+ID_2327,Hired,EMP_7984,Administrative Business Partner,Product Manager,No Division,Marketing,IC3,Boston,03-02-2026,02-12-2026,FY27 Q2,USD,Full time,YEAR,"150,000",0,7500.0,5.0,0
+ID_7279,Hired,EMP_8495,Solutions Architect,Security Partner,No Division,Data,IC3,Austin,04-06-2026,03-27-2026,FY27 Q1,USD,Full time,YEAR,"180,000","60,000",0.0,0.0,0
+ID_4105,Hired,EMP_7019,Staff GRC Analyst,,No Division,Legal,IC5,Austin,06-08-2026,05-12-2026,FY27 Q1,USD,Full time,YEAR,"270,000",0,27000.0,10.0,0
+ID_5964,Hired,EMP_1196,Head of Total Rewards,Sales Specialist,No Division,Communications,M6,Boston,07-20-2026,05-04-2026,FY27 Q1,USD,Full time,YEAR,"375,000",0,75000.0,20.0,"26,000"
+ID_9516,Hired,EMP_0743,"Account Executive, Commercial",Platform Director,No Division,IT,IC3,Austin,04-06-2026,03-17-2026,FY27 Q3,USD,Full time,YEAR,"130,000","130,000",0.0,0.0,0
+ID_2447,Hired,EMP_5221,Product Design Intern,Solutions Advisor,No Division,Procurement,IC2,Boston,06-15-2026,05-07-2026,FY27 Q1,USD,Intern,YEAR,"114,400",0,0.0,0.0,0
+ID_4992,Hired,EMP_1614,Summer Intern ’26,Security Strategist,No Division,Sales,IC2,Boston,06-15-2026,04-28-2026,FY27 Q1,USD,Intern,YEAR,"135,200",0,0.0,0.0,0
+ID_2307,Hired,EMP_1578,"Senior Director, Field Engineering",Security Partner,No Division,Data,M6,Boston,04-13-2026,03-09-2026,FY27 Q1,USD,Full time,YEAR,"320,000","137,143",0.0,0.0,0
+ID_1853,Hired,EMP_2516,Senior Solutions Architect,Security Partner,No Division,Data,IC4,Austin,06-08-2026,05-11-2026,FY27 Q1,USD,Full time,YEAR,"195,000","65,000",0.0,0.0,0
+ID_9688,Hired,EMP_2570,FP&A Systems Manager,Data Coordinator,No Division,Marketing,IC4,Boston,03-16-2026,02-20-2026,FY27 Q1,USD,Full time,YEAR,"215,000",0,16125.0,7.5,0
+ID_1904,Hired,EMP_6197,"Strategic Finance Intern, Product",Data Coordinator,No Division,Marketing,IC2,Boston,05-26-2026,04-20-2026,FY27 Q2,USD,Intern,HOUR,75,0,0.0,0.0,0
+ID_8803,Hired,EMP_9515,Staff Security Engineer,Platform Lead,No Division,Legal,IC5,Edinburgh,04-27-2026,04-07-2026,FY27 Q2,GBP,Full time,YEAR,"220,000",0,22000.0,10.0,0
+ID_2285,Hired,EMP_3179,"Account Executive, Majors",Sales Engineer,No Division,IT,IC4,Boston,11-01-2026,06-02-2026,FY27 Q3,USD,Full time,YEAR,"170,000","170,000",0.0,0.0,0
+ID_2173,Hired,EMP_9273,"Head of Finance, CoE - India",Finance Partner,No Division,Marketing,M6,Delhi,08-03-2026,05-27-2026,FY27 Q2,INR,Full time,YEAR,"13,560,000",0,2034000.0,15.0,"1,995"
+ID_1658,Hired,EMP_9720,Product Foundations,Business Manager,No Division,Marketing,IC5,Boston,06-29-2026,05-26-2026,FY27 Q2,USD,Full time,YEAR,"320,000",0,40000.0,12.5,"2,500"
+ID_5875,Hired,EMP_0309,"Account Executive, Commercial",Platform Director,No Division,IT,IC3,Boston,03-16-2026,03-09-2026,FY27 Q1,USD,Full time,YEAR,"130,000","130,000",0.0,0.0,0
+ID_7005,Hired,EMP_4376,Sr. Workplace Manager,Operations Principal,No Division,Communications,IC4,Edinburgh,06-29-2026,05-29-2026,FY27 Q2,GBP,Full time,YEAR,"90,000",0,6750.0,7.5,450
+ID_6323,Hired,EMP_2391,Sr. Partner Marketing Manager,Operations Principal,No Division,Finance,IC5,Boston,04-06-2026,02-23-2026,FY27 Q1,USD,Full time,YEAR,"260,000",0,26000.0,10.0,0
+ID_5203,Hired,EMP_3012,Software Engineering Intern,Security Strategist,No Division,Sales,IC2,Boston,05-26-2026,02-23-2026,FY27 Q1,USD,Intern,HOUR,65,0,0.0,0.0,0
+ID_1082,Hired,EMP_4513,"Senior Account Executive, Startups",Platform Principal,No Division,IT,IC3,Boston,04-06-2026,03-09-2026,FY27 Q1,USD,Full time,YEAR,"125,000","125,000",0.0,0.0,0
+ID_0131,Hired,EMP_0913,Senior Field Marketing Manager,Security Designer,No Division,Finance,IC4,Amsterdam,03-16-2026,02-27-2026,FY27 Q1,EUR,Full time,YEAR,"135,000",0,10125.0,7.5,0
+ID_6225,Hired,EMP_8718,Global Payroll Manager,Security Principal,No Division,Marketing,IC4,Delhi,04-13-2026,03-26-2026,FY27 Q1,INR,Full time,YEAR,"5,750,000",0,431250.0,7.5,0
+ID_9442,Hired,EMP_2473,"MBA Intern, Growth/Monetization",Security Strategist,No Division,Sales,IC2,Austin,06-08-2026,03-23-2026,FY27 Q1,USD,Intern,YEAR,"114,400",0,0.0,0.0,0
+ID_3981,Hired,EMP_5460,"Senior Account Executive, Majors",Sales Engineer,No Division,IT,IC5,Austin,06-08-2026,04-16-2026,FY27 Q1,USD,Full time,YEAR,"210,000","210,000",0.0,0.0,0
+ID_5067,Hired,EMP_5213,"Engineering Manager, Gateways, AI Enablement",Security Strategist,No Division,Sales,M4,Austin,06-08-2026,04-29-2026,FY27 Q2,USD,Full time,YEAR,"315,000",0,31500.0,10.0,0
+ID_1061,Hired,EMP_7531,Solutions Architect,,No Division,Data,IC3,Boston,06-22-2026,05-05-2026,FY27 Q2,USD,Full time,YEAR,"172,500","57,500",0.0,0.0,"1,150"
+ID_5017,Hired,EMP_8690,Summer Intern ’26,Security Strategist,No Division,Sales,IC2,Boston,06-15-2026,02-03-2026,FY27 Q1,USD,Intern,YEAR,0,0,0.0,0.0,0
+ID_6157,Hired,EMP_8287,Software Engineer,Security Strategist,No Division,Sales,IC5,Austin,04-06-2026,03-17-2026,FY27 Q1,USD,Full time,YEAR,"250,000",0,18750.0,7.5,0
+ID_4527,Hired,EMP_9550,Anti-Abuse Automation Engineer,Platform Lead,No Division,Marketing,IC4,Austin,05-18-2026,05-13-2026,FY27 Q1,USD,Full time,YEAR,"255,000",0,19125.0,7.5,0
+ID_9500,Hired,EMP_0019,Software Engineer,Security Strategist,No Division,Sales,IC4,Austin,06-08-2026,05-26-2026,FY27 Q1,USD,Full time,YEAR,"240,000",0,18000.0,7.5,0
+ID_1594,Offer stage,EMP_9927,"Manager, Startups Program ",Operations Principal,No Division,Finance,M3,Boston,07-06-2026,,FY27 Q2,USD,Full time,YEAR,"190,000",0,14250.0,7.5,850
+ID_1310,Hired,EMP_8367,Senior Solutions Architect,Security Partner,No Division,Data,IC4,Austin,04-06-2026,03-10-2026,FY27 Q1,USD,Full time,YEAR,"165,000","55,000",0.0,0.0,0
+ID_2466,Hired,EMP_6184,Startup AE - ROW - Blended,Platform Principal,No Division,IT,IC2,Sydney,04-01-2026,03-17-2026,FY27 Q3,AUD,Full time,YEAR,"103,000","103,000",0.0,0.0,122
+ID_3547,Offer stage,EMP_7352,"Solutions Architect, Majors Blended",Security Partner,No Division,Data,IC3,Edinburgh,07-06-2026,,FY27 Q2,GBP,Full time,YEAR,"99,000","33,000",0.0,0.0,863
+ID_6031,Hired,EMP_9906,Software Engineer,Security Strategist,No Division,Sales,IC4,Austin,05-18-2026,03-25-2026,FY27 Q1,USD,Full time,YEAR,"290,000",0,21750.0,7.5,0
+ID_3068,Hired,EMP_4381,Startup Accelerator,Operations Principal,No Division,Finance,IC4,Austin,06-08-2026,05-21-2026,FY27 Q2,USD,Full time,YEAR,"143,000",0,7150.0,5.0,0
+ID_3013,Hired,EMP_0445,"Account Executive, Startups",Platform Principal,No Division,IT,IC2,Austin,05-11-2026,04-20-2026,FY27 Q1,USD,Full time,YEAR,"88,000","88,000",0.0,0.0,0
+ID_9962,Hired,EMP_4171,Recruiting Coordinator (CTR Conversion),People Partner,No Division,Marketing,IC2,Boston,03-02-2026,02-19-2026,FY27 Q2,USD,Full time,YEAR,"114,400",0,5720.0,5.0,400
+ID_3575,Hired,EMP_5397,"Field Marketing Manager, APJ ",Security Designer,No Division,Finance,IC3,Sydney,03-30-2026,03-13-2026,FY27 Q3,AUD,Full time,YEAR,"170,000",0,8500.0,5.0,468
+ID_7545,Hired,EMP_0739,Solutions Architect,Security Partner,No Division,Data,IC1,Boston,05-11-2026,04-10-2026,FY27 Q3,USD,Full time,YEAR,"106,500","35,000",0.0,0.0,0
+ID_3694,Hired,EMP_4069,Software Engineering Intern,Security Strategist,No Division,Sales,IC2,Boston,06-15-2026,06-02-2026,FY27 Q1,USD,Intern,YEAR,"135,200",0,0.0,0.0,0
+ID_9250,Hired,EMP_4207,"Account Executive, Majors",Sales Engineer,No Division,IT,IC4,Boston,05-11-2026,03-16-2026,FY27 Q1,USD,Full time,YEAR,"180,000","180,000",0.0,0.0,0
+ID_7974,Hired,EMP_8983,"Senior Account Executive, Startups",Platform Principal,No Division,IT,IC3,Edinburgh,05-04-2026,03-23-2026,FY27 Q2,GBP,Full time,YEAR,"95,000","95,000",0.0,0.0,0
+ID_8943,Hired,EMP_9214,SF Workplace Coordinator,Sales Strategist,No Division,Communications,IC2,Boston,03-23-2026,03-16-2026,FY27 Q2,USD,Full time,YEAR,"110,000",0,5500.0,5.0,400
+ID_4824,Hired,EMP_3262,Software Engineering Intern,,No Division,Sales,IC2,Boston,09-07-2026,05-06-2026,FY27 Q2,USD,Intern,YEAR,"135,200",0,0.0,0.0,0
+ID_2095,Hired,EMP_1231,Product Security Engineer,Platform Lead,No Division,Legal,IC5,Austin,06-08-2026,05-05-2026,FY27 Q1,USD,Full time,YEAR,"315,000",0,31500.0,10.0,0
+ID_9460,Hired,EMP_5464,"Senior Account Executive, Startups",Platform Principal,No Division,IT,IC3,Sydney,07-06-2026,04-17-2026,FY27 Q2,AUD,Full time,YEAR,"190,000","190,000",0.0,0.0,673
+ID_6834,Hired,EMP_3171,Data Platform & Engineering Intern,Technical Architect,No Division,Marketing,IC2,Boston,01-04-2027,03-24-2026,FY27 Q2,USD,Intern,YEAR,"135,200",0,0.0,0.0,0
+ID_2641,Hired,EMP_3536,Analytics Engineer,Technical Architect,No Division,Marketing,IC5,Austin,03-16-2026,02-27-2026,,USD,Full time,YEAR,"240,000",0,24000.0,10.0,0
+ID_1118,Hired,EMP_1370,Software Engineer,Security Strategist,No Division,Sales,IC4,Boston,06-08-2026,05-13-2026,FY27 Q1,USD,Full time,YEAR,"336,000",0,33600.0,10.0,"4,500"
+ID_3147,Hired,EMP_7856,"Account Executive, Majors",Sales Engineer,No Division,IT,IC4,Austin,04-06-2026,03-24-2026,FY27 Q1,USD,Full time,YEAR,"175,000","175,000",0.0,0.0,0
+ID_3842,Hired,EMP_0530,Senior Forward-Deployed Engineer,,No Division,Operations,IC3,Edinburgh,06-08-2026,04-06-2026,FY27 Q1,GBP,Full time,YEAR,"115,000",0,8625.0,7.5,578
+ID_0938,Hired,EMP_1429,Senior Accountant,Finance Partner,No Division,Marketing,IC3,Boston,06-01-2026,04-20-2026,FY27 Q2,USD,Full time,YEAR,"142,500",0,7125.0,5.0,550
+ID_6896,Hired,EMP_9772,"FP&A Manager, R&D",Data Coordinator,No Division,Marketing,IC4,Boston,06-22-2026,05-29-2026,FY27 Q2,USD,Full time,YEAR,"210,000",0,15750.0,7.5,"1,320"
+ID_8998,Hired,EMP_0939,"Developer Success Engineer, EMEA",Solutions Designer,No Division,Data,IC3,Madrid,06-08-2026,04-06-2026,FY27 Q1,EUR,Full time,YEAR,"110,000",0,5500.0,5.0,863
+ID_8030,Hired,EMP_1960,"Senior Account Executive, Startups",,No Division,IT,IC4,Austin,05-11-2026,04-20-2026,FY27 Q2,USD,Full time,YEAR,"145,000","145,000",0.0,0.0,0
+ID_4745,Hired,EMP_4387,Solutions Architect,Security Partner,No Division,Data,IC4,Austin,06-08-2026,04-10-2026,,USD,Full time,YEAR,"106,500","35,500",0.0,0.0,0
+ID_5253,Hired,EMP_7447,"FP&A Manager, GTM",Data Coordinator,No Division,Marketing,IC4,Boston,04-06-2026,03-13-2026,FY27 Q1,USD,Full time,YEAR,"210,000",0,15750.0,7.5,0
+ID_4630,Hired,EMP_0831,"VDR, Startups",Marketing Manager,No Division,Marketing,IC1,Austin,06-08-2026,04-16-2026,FY27 Q2,USD,Full time,YEAR,"63,000","42,000",0.0,0.0,0
+ID_3188,Hired,EMP_2866,Content Engineer,Software Principal,No Division,Finance,IC3,Boston,06-08-2026,05-15-2026,FY27 Q2,USD,Full time,YEAR,"200,000",0,10000.0,5.0,755
+ID_8024,Hired,EMP_1698,"Senior Manager, Solutions Architect",Security Partner,No Division,Data,M4,Austin,05-26-2026,04-10-2026,FY26 Q4,USD,Full time,YEAR,"245,000","105,000",0.0,0.0,0
+ID_3409,Hired,EMP_7456,Pricing Product Manager,Solutions Architect,No Division,Business Development,IC4,Boston,06-15-2026,05-29-2026,FY27 Q2,USD,Full time,YEAR,0,0,0.0,0.0,0
+ID_8671,Hired,EMP_0513,Senior Security Engineer,Platform Lead,No Division,Legal,IC4,Boston,04-27-2026,03-25-2026,FY27 Q1,USD,Full time,YEAR,"260,000",0,19500.0,7.5,0
+ID_7910,Hired,EMP_0384,"GSI & Consultancies, Partner Lead",Data Architect,No Division,Business Development,IC5,Austin,06-08-2026,05-11-2026,FY27 Q1,USD,Full time,YEAR,"245,000","105,000",0.0,0.0,0
+ID_1732,Hired,EMP_5048,"Account Executive, Startups",Platform Principal,No Division,IT,IC2,Sydney,07-06-2026,05-13-2026,FY27 Q1,AUD,Full time,YEAR,"115,000",0,0.0,0.0,"3,000"
+ID_3353,Offer stage,EMP_3561,"Solutions Architect, Commercial Greenfield",Security Partner,No Division,Data,IC3,Boston,08-03-2026,,FY27 Q2,USD,Full time,YEAR,"83,000","27,667",0.0,0.0,300
